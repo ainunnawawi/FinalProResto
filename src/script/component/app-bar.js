@@ -1,4 +1,4 @@
-import logoWarna from '../img/logo-warna.png';
+import logoWarna from '../img/logo-nama.png';
 import iconLogo from '../img/icon-logo.png';
 
 class AppBar extends HTMLElement {
